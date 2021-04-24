@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tic-tac-tow-using-react-hook/static/css/main.0d4cb49a.chunk.css",
+    "main.js": "/tic-tac-tow-using-react-hook/static/js/main.1b8d49f9.chunk.js",
+    "main.js.map": "/tic-tac-tow-using-react-hook/static/js/main.1b8d49f9.chunk.js.map",
+    "runtime-main.js": "/tic-tac-tow-using-react-hook/static/js/runtime-main.ceda01e3.js",
+    "runtime-main.js.map": "/tic-tac-tow-using-react-hook/static/js/runtime-main.ceda01e3.js.map",
+    "static/js/2.83fc54d4.chunk.js": "/tic-tac-tow-using-react-hook/static/js/2.83fc54d4.chunk.js",
+    "static/js/2.83fc54d4.chunk.js.map": "/tic-tac-tow-using-react-hook/static/js/2.83fc54d4.chunk.js.map",
+    "index.html": "/tic-tac-tow-using-react-hook/index.html",
+    "static/css/main.0d4cb49a.chunk.css.map": "/tic-tac-tow-using-react-hook/static/css/main.0d4cb49a.chunk.css.map",
+    "static/js/2.83fc54d4.chunk.js.LICENSE.txt": "/tic-tac-tow-using-react-hook/static/js/2.83fc54d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceda01e3.js",
+    "static/js/2.83fc54d4.chunk.js",
+    "static/css/main.0d4cb49a.chunk.css",
+    "static/js/main.1b8d49f9.chunk.js"
+  ]
+}
